@@ -104,7 +104,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/memoize/-/memoize-0.7.5.tgz#2c40f81449a4e554e9fc6396910ed4843ec2be50"
   integrity sha512-igX9a37DR2ZPGYtV6suZ6whr8pTFtyHL3K/oLUotxpSVO2ASaprmAe2Dkq7tBo7CRY7MMDrAa9nuQP9/YG8FxQ==
 
-"@emotion/react@^11.9.3":
+"@emotion/react@11.9.3":
   version "11.9.3"
   resolved "https://registry.yarnpkg.com/@emotion/react/-/react-11.9.3.tgz#f4f4f34444f6654a2e550f5dab4f2d360c101df9"
   integrity sha512-g9Q1GcTOlzOEjqwuLF/Zd9LC+4FljjPjDfxSM7KmEakm+hsHXk+bYZ2q+/hTJzr0OUNkujo72pXLQvXj6H+GJQ==
@@ -295,7 +295,7 @@
   resolved "https://registry.yarnpkg.com/@pedrouid/environment/-/environment-1.0.1.tgz#858f0f8a057340e0b250398b75ead77d6f4342ec"
   integrity sha512-HaW78NszGzRZd9SeoI3JD11JqY+lubnaOx7Pewj5pfjqWXOEATpeKIFb9Z4t2WBUK2iryiXX3lzWwmYWgUL0Ug==
 
-"@perawallet/connect@^0.1.5":
+"@perawallet/connect@0.1.5":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@perawallet/connect/-/connect-0.1.5.tgz#6fdc5224e0d6e7ed94768b501fb349b08d71ba87"
   integrity sha512-9m3CRKXr6rwT2RRGo0pDA4a6s6uCMKjmpSHcWGKJFPxEwHGALsLQC5frjdibjg5jbWuD8KRFFALu93/49evNjg==
@@ -564,7 +564,7 @@ algo-msgpack-with-bigint@^2.1.1:
   resolved "https://registry.yarnpkg.com/algo-msgpack-with-bigint/-/algo-msgpack-with-bigint-2.1.1.tgz#38bb717220525b3ff42232eefdcd9efb9ad405d6"
   integrity sha512-F1tGh056XczEaEAqu7s+hlZUDWwOBT70Eq0lfMpBP2YguSQVyxRbprLq5rELXKQOyOaixTWYhMeMQMzP0U5FoQ==
 
-algosdk@^1.18.1:
+algosdk@1.18.1:
   version "1.18.1"
   resolved "https://registry.yarnpkg.com/algosdk/-/algosdk-1.18.1.tgz#b9be65a713af98712f62f31188bf185c12972e28"
   integrity sha512-P0mlSfMSbylMfUG2SZgxnhSE1JvQFIK4wT8O9ZvBvy1+pxs53MdAKfYkfC95cK3VqCvq616PuXM6bzI2mpQbPA==
@@ -2076,7 +2076,7 @@ react-qrcode-logo@^2.7.0:
     lodash.isequal "^4.5.0"
     qrcode-generator "^1.4.1"
 
-react-toastify@^9.0.5:
+react-toastify@9.0.5:
   version "9.0.5"
   resolved "https://registry.yarnpkg.com/react-toastify/-/react-toastify-9.0.5.tgz#310d7bcfcf3887c0e8461ac6068fe1abb8d720e1"
   integrity sha512-dszPCeQINY+Nm6HmsiAXT/7wsazPqv0S/RuhIYLAW+fTKcd3T1iRjZG0XqrN9nvAzqaE5J6uxMaiBrOevxjY8g==
